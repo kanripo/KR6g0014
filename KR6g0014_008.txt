@@ -1,16 +1,15 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:04:02.533168
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:12
 #+TITLE: 涅槃經治定疏科
 #+PROPERTY: CBETA_ID X36n0657
 #+PROPERTY: ID KR6g0014
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 36, No. 657
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0014_X_008-0191a> 
 #+PROPERTY: JUAN 8
-
- 涅槃經治定疏科卷第八¶
+涅槃經治定疏科卷第八¶
 錢塘沙門釋　智圓　撰¶
 ¶
 

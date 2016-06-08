@@ -1,16 +1,15 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:04:02.290988
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:12
 #+TITLE: 涅槃經治定疏科
 #+PROPERTY: CBETA_ID X36n0657
 #+PROPERTY: ID KR6g0014
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 36, No. 657
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0014_X_003-0084a> 
 #+PROPERTY: JUAN 3
-
- 涅槃經治定疏科卷卷三¶
+涅槃經治定疏科卷卷三¶
 錢塘沙門釋　智圓　撰¶
 ¶
 
@@ -90,7 +89,7 @@
   
   * 初敘古總標¶
   * 二一云下引義判斥¶
-  * 三今未下謙己結意¶
+  * 三今未下謙巳結意¶
   * 二天台下明今釋(二)¶
   
   * 初解非列句(二)¶
@@ -1098,7 +1097,7 @@
   * 三上舉下自陳義旨(三)¶
   
   * 初明義妙言絕¶
-  * 二謙己分文¶
+  * 二謙巳分文¶
   * 三此中下指經文意¶
   * 四觀師下隨文略消(六)¶
   

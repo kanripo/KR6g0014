@@ -1,16 +1,15 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:04:02.498647
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:12
 #+TITLE: 涅槃經治定疏科
 #+PROPERTY: CBETA_ID X36n0657
 #+PROPERTY: ID KR6g0014
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 36, No. 657
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0014_X_007-0176a> 
 #+PROPERTY: JUAN 7
-
- 涅槃經治定疏科卷第七¶
+涅槃經治定疏科卷第七¶
 錢塘沙門釋　智圓　撰¶
 ¶
 
@@ -117,7 +116,7 @@
   * 初聞真諦法¶
   * 二聞祕密¶
   * 三結¶
-  * 二釋聞已利益(二)¶
+  * 二釋聞巳利益(二)¶
   
   * 初分科¶
   * 二標證下隨釋(三)¶
@@ -332,7 +331,7 @@
   * 二明顯常俱說正答¶
   * 三徵經文舉例再竝¶
   * 四約三悉俱談通解¶
-  * 二至已論義(二)¶
+  * 二至巳論義(二)¶
   
   * 初分科¶
   * 二隨釋(二)¶
@@ -396,7 +395,7 @@
   * 二誡未下正解(二)¶
   
   * 初誡未聞¶
-  * 二誡聞已(二)¶
+  * 二誡聞巳(二)¶
   
   * 初分科¶
   * 二當生下正釋(三)¶

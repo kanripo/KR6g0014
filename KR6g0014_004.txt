@@ -1,16 +1,15 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:04:02.341392
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:12
 #+TITLE: 涅槃經治定疏科
 #+PROPERTY: CBETA_ID X36n0657
 #+PROPERTY: ID KR6g0014
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 36, No. 657
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0014_X_004-0107a> 
 #+PROPERTY: JUAN 4
-
- 涅槃經治定疏科卷第四¶
+涅槃經治定疏科卷第四¶
 錢塘沙門釋　智圓　撰¶
 ¶
 
@@ -656,7 +655,7 @@
   * 初結歎(二)¶
   
   * 初結佛所歎¶
-  * 二結說已¶
+  * 二結說巳¶
   * 二結勸(二)¶
   
   * 初勸持不二法¶
@@ -2005,7 +2004,7 @@
 <pb:KR6g0014_X_004-0129a>¶
   
   * 初譬未生解¶
-  * 二譬已生解¶
+  * 二譬巳生解¶
   * 三明護法¶
   * 四得果報¶
   * 三合¶
@@ -2270,7 +2269,7 @@
   * 初分科¶
   * 二至淨下隨釋(二)¶
   
-  * 初請已嘿止¶
+  * 初請巳嘿止¶
   * 二請聲所至¶
   * 四廣明無病○¶
   * 二聖行品明聖行○¶

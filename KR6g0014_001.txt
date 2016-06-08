@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:04:02.183954
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:12
 #+TITLE: 涅槃經治定疏科
 #+PROPERTY: CBETA_ID X36n0657
 #+PROPERTY: ID KR6g0014
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 36, No. 657
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0014_X_001-0042a> 
 #+PROPERTY: JUAN 1
-No.657¶
-
- 涅槃經治定疏科卷第一¶
+No. 657¶
+涅槃經治定疏科卷第一¶
 錢塘沙門　智圓　撰¶
 ¶
 
@@ -530,7 +529,7 @@ No.657¶
   * 二約四弘兼下化德(二)¶
   
   * 初科分¶
-  * 二己階下隨釋(二)¶
+  * 二巳階下隨釋(二)¶
   
   * 初總歎¶
   * 二別歎¶
@@ -654,7 +653,7 @@ No.657¶
   * 二興皇竝難(二)¶
   
   * 初以比丘竝¶
-  * 二當知下正示己義¶
+  * 二當知下正示巳義¶
   * 二簡雙遊非對治¶
   * 二若爾下明今解(二)¶
   
@@ -923,7 +922,7 @@ No.657¶
   
   * ○七八河沙天女眾(二)¶
   
-  * 初科分¶
+  * 初料分¶
   * 二隨釋(三)¶
   
   * 初所召(二)¶

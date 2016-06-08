@@ -1,16 +1,15 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:04:02.235958
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:12
 #+TITLE: 涅槃經治定疏科
 #+PROPERTY: CBETA_ID X36n0657
 #+PROPERTY: ID KR6g0014
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 36, No. 657
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0014_X_002-0063a> 
 #+PROPERTY: JUAN 2
-
- 涅槃經治定疏科卷第二¶
+涅槃經治定疏科卷第二¶
 錢塘沙門釋　智圓　撰¶
 ¶
 
@@ -477,7 +476,7 @@
   
   * 初因事致請¶
   * 二隨義答酬¶
-  * 三前已下要請(二)¶
+  * 三前巳下要請(二)¶
   
   * 初因事致請¶
   * 二隨義答酬¶
@@ -1102,7 +1101,7 @@
   * 初譬四倒病(二)¶
   
   * 初分經略對¶
-  * 二已略下隨文重釋(二)¶
+  * 二巳略下隨文重釋(二)¶
   
   * 初結前生後¶
   * 二王者下隨文正解(六)¶
@@ -1567,7 +1566,7 @@
   
   * 初正示因果¶
   * 二業若下結成不思議¶
-  * 二精進下疏主譏己推師¶
+  * 二精進下疏主譏巳推師¶
   * 二指果法因法以勸業(二)¶
   
   * 初示因果¶

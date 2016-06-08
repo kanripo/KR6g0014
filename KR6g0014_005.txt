@@ -1,16 +1,15 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:04:02.403081
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:12
 #+TITLE: 涅槃經治定疏科
 #+PROPERTY: CBETA_ID X36n0657
 #+PROPERTY: ID KR6g0014
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 36, No. 657
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0014_X_005-0133a> 
 #+PROPERTY: JUAN 5
-
- 涅槃經治定疏科卷第五¶
+涅槃經治定疏科卷第五¶
 錢塘沙門釋　智圓　撰¶
 ¶
 
@@ -582,7 +581,7 @@
   
   * 初難¶
   
-  * 疏總釋¶
+  * 琉總釋¶
   * 四難¶
   
   * 琉總釋¶
@@ -706,7 +705,7 @@
   
   * 初約陰身¶
   * 二約我我所¶
-  * 三約欲得已得¶
+  * 三約欲得巳得¶
   * 四約三界¶
   * 五約三道¶
   * 六約四事¶
@@ -1473,7 +1472,7 @@
   * 初破第三專念¶
   * 二破第四憶想¶
   * 三破第七讀誦¶
-  * 四剩有已今當作¶
+  * 四剩有巳今當作¶
   * 五剩有非怨非親¶
   * 六剩有我物他物¶
   * 七破第五修習¶
@@ -1524,7 +1523,7 @@
   
   * 初正答
 <pb:KR6g0014_X_005-0149a>¶
-  * 二指上已答¶
+  * 二指上巳答¶
   * 三廣破計我(二)¶
   
   * 初分科¶
