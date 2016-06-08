@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:04:02.449860
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:12
 #+TITLE: 涅槃經治定疏科
 #+PROPERTY: CBETA_ID X36n0657
 #+PROPERTY: ID KR6g0014
@@ -9,8 +9,7 @@
 #+PROPERTY: WITNESS X
 #+PROPERTY: LASTPB <pb:KR6g0014_X_006-0153a> 
 #+PROPERTY: JUAN 6
-
- 涅槃經治定疏科卷第六¶
+涅槃經治定疏科卷第六¶
 錢塘沙門釋　智圓　撰¶
 ¶
 
@@ -442,7 +441,7 @@
   
   * 初舊解(二)¶
   
-  * 初約未成已成釋¶
+  * 初約未成巳成釋¶
   * 二約有行空行釋¶
   * 二義皆下今破(二)¶
   
